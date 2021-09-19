@@ -4,6 +4,10 @@
 
 ![1](docs/images/1.png)
 
+测试成功截图
+
+![0](docs/images/0.png)
+
 合约初始化成功
 
 ![2](docs/images/2.png)
